@@ -1,0 +1,992 @@
+{
+	"entity": [
+		{
+			"animation": [
+				{
+					"id": 0,
+					"interval": 100,
+					"length": 24,
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 8
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 9
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 0,
+										"timeline": 10
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 0,
+										"timeline": 11
+									}
+								],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -250.00000000000009,
+										"abs_y": -249.99999999999986,
+										"file": 0,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "Hair",
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 360,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -250,
+										"abs_y": -250,
+										"file": 1,
+										"folder": 0,
+										"id": 1,
+										"key": 0,
+										"name": "bHand",
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 360,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -250,
+										"abs_y": -250,
+										"file": 2,
+										"folder": 0,
+										"id": 2,
+										"key": 0,
+										"name": "aHand",
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 360,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -250,
+										"abs_y": -250,
+										"file": 3,
+										"folder": 0,
+										"id": 3,
+										"key": 0,
+										"name": "Body",
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -250,
+										"abs_y": -250,
+										"file": 4,
+										"folder": 0,
+										"id": 4,
+										"key": 0,
+										"name": "aLeg1",
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 355.52915426783386,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -226.06957485937352,
+										"abs_y": -265.64319650204567,
+										"file": 5,
+										"folder": 0,
+										"id": 5,
+										"key": 0,
+										"name": "aLeg2",
+										"parent": 1,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -250.00000000000006,
+										"abs_y": -249.99999999999994,
+										"file": 6,
+										"folder": 0,
+										"id": 6,
+										"key": 0,
+										"name": "bLeg",
+										"parent": 2,
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -250.00000000000009,
+										"abs_y": -249.99999999999986,
+										"file": 7,
+										"folder": 0,
+										"id": 7,
+										"key": 0,
+										"name": "Head",
+										"parent": 3,
+										"timeline": "7",
+										"z_index": "7"
+									}
+								]
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 8
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 9
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 0,
+										"timeline": 10
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"parent": 0,
+										"timeline": 11
+									}
+								],
+								"id": 1,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 1,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"parent": 2,
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"id": 7,
+										"key": 0,
+										"parent": 3,
+										"timeline": "7",
+										"z_index": "7"
+									}
+								],
+								"time": 4
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 8
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 0,
+										"timeline": 9
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 0,
+										"timeline": 10
+									},
+									{
+										"id": 3,
+										"key": 2,
+										"parent": 0,
+										"timeline": 11
+									}
+								],
+								"id": 2,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 1,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"parent": 2,
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"id": 7,
+										"key": 0,
+										"parent": 3,
+										"timeline": "7",
+										"z_index": "7"
+									}
+								],
+								"time": 12
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 8
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 0,
+										"timeline": 9
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 0,
+										"timeline": 10
+									},
+									{
+										"id": 3,
+										"key": 3,
+										"parent": 0,
+										"timeline": 11
+									}
+								],
+								"id": 3,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 1,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"parent": 2,
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"id": 7,
+										"key": 0,
+										"parent": 3,
+										"timeline": "7",
+										"z_index": "7"
+									}
+								],
+								"time": 16
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 8
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"parent": 0,
+										"timeline": 9
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"parent": 0,
+										"timeline": 10
+									},
+									{
+										"id": 3,
+										"key": 3,
+										"parent": 0,
+										"timeline": 11
+									}
+								],
+								"id": 4,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 1,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"parent": 2,
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"id": 7,
+										"key": 0,
+										"parent": 3,
+										"timeline": "7",
+										"z_index": "7"
+									}
+								],
+								"time": 24
+							}
+						]
+					},
+					"name": "idle",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 272.47759886844574,
+										"file": 0,
+										"folder": 0,
+										"x": 221.6114498071132,
+										"y": 255.9231264334075
+									},
+									"spin": 0
+								}
+							],
+							"name": "Hair",
+							"obj": 0
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"file": 1,
+										"folder": 0,
+										"x": -250,
+										"y": 250
+									},
+									"spin": 0
+								}
+							],
+							"name": "bHand",
+							"obj": 1
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"file": 2,
+										"folder": 0,
+										"x": -250,
+										"y": 250
+									},
+									"spin": 0
+								}
+							],
+							"name": "aHand",
+							"obj": 2
+						},
+						{
+							"id": 3,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"file": 3,
+										"folder": 0,
+										"x": -250,
+										"y": 250
+									},
+									"spin": 0
+								}
+							],
+							"name": "Body",
+							"obj": 3
+						},
+						{
+							"id": 4,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0,
+										"file": 4,
+										"folder": 0,
+										"x": -250,
+										"y": 250
+									},
+									"spin": 0
+								}
+							],
+							"name": "aLeg1",
+							"obj": 4
+						},
+						{
+							"id": 5,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 108.97040780848658,
+										"file": 5,
+										"folder": 0,
+										"x": -213.45113725787374,
+										"y": -297.90663083621666
+									},
+									"spin": 0
+								}
+							],
+							"name": "aLeg2",
+							"obj": 5
+						},
+						{
+							"id": 6,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 77.78068707678062,
+										"file": 6,
+										"folder": 0,
+										"x": -367.9938109463198,
+										"y": -146.86848206327863
+									},
+									"spin": 0
+								}
+							],
+							"name": "bLeg",
+							"obj": 6
+						},
+						{
+							"id": 7,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 272.47759886844574,
+										"file": 7,
+										"folder": 0,
+										"x": 221.6114498071132,
+										"y": 255.9231264334075
+									},
+									"spin": 0
+								}
+							],
+							"name": "Head",
+							"obj": 7
+						},
+						{
+							"id": 8,
+							"key": [
+								{
+									"bone": {
+										"angle": 2.250640897037556,
+										"x": -9.09090909090909,
+										"y": -53.896103896103895
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "main",
+							"obj": 8,
+							"object_type": "bone"
+						},
+						{
+							"id": 9,
+							"key": [
+								{
+									"bone": {
+										"angle": 244.30810556230972,
+										"x": -28.34538332858867,
+										"y": 6.312826275099545
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 246.28844099059745,
+										"x": -28.34538332858867,
+										"y": 6.312826275099545
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 12
+								},
+								{
+									"bone": {
+										"angle": 244.30810556230972,
+										"x": -28.34538332858867,
+										"y": 6.312826275099545
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 24
+								}
+							],
+							"name": "aLeg",
+							"obj": 9,
+							"object_type": "bone"
+						},
+						{
+							"id": 10,
+							"key": [
+								{
+									"bone": {
+										"angle": 279.9686720261818,
+										"x": -20.43451664991819,
+										"y": -23.89127071438022
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 276.6794471373149,
+										"x": -20.43451664991819,
+										"y": -23.89127071438022
+									},
+									"id": 1,
+									"time": 12
+								},
+								{
+									"bone": {
+										"angle": 279.9686720261818,
+										"x": -20.43451664991819,
+										"y": -23.89127071438022
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 24
+								}
+							],
+							"name": "bLeg_000",
+							"obj": 10,
+							"object_type": "bone"
+						},
+						{
+							"id": 11,
+							"key": [
+								{
+									"bone": {
+										"angle": 85.2717602345167,
+										"x": 7.995868827796599,
+										"y": 71.16946605832571
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 96.99717540365282,
+										"x": 7.995868827796599,
+										"y": 71.16946605832571
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 4
+								},
+								{
+									"bone": {
+										"angle": 85.2717602345167,
+										"x": 7.995868827796599,
+										"y": 71.16946605832571
+									},
+									"id": 2,
+									"spin": -1,
+									"time": 12
+								},
+								{
+									"bone": {
+										"angle": 72.68095850242713,
+										"x": 7.995868827796599,
+										"y": 71.16946605832571
+									},
+									"id": 3,
+									"time": 16
+								}
+							],
+							"name": "head",
+							"obj": 11,
+							"object_type": "bone"
+						}
+					]
+				}
+			],
+			"character_map": [],
+			"id": 0,
+			"name": "entity_000",
+			"obj_info": [
+				{
+					"frames": [
+						{
+							"file": 0,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_Hair",
+					"realname": "Hair",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 1,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_bHand",
+					"realname": "bHand",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 2,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_aHand",
+					"realname": "aHand",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 3,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_Body",
+					"realname": "Body",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 4,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_aLeg1",
+					"realname": "aLeg1",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 5,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_aLeg2",
+					"realname": "aLeg2",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 6,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_bLeg",
+					"realname": "bLeg",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 7,
+							"folder": 0
+						}
+					],
+					"name": "entity_000_Head",
+					"realname": "Head",
+					"type": "sprite"
+				},
+				{
+					"h": 10,
+					"name": "entity_000_main",
+					"realname": "main",
+					"type": "bone",
+					"w": 148.81609588006143
+				},
+				{
+					"h": 10,
+					"name": "entity_000_aLeg",
+					"realname": "aLeg",
+					"type": "bone",
+					"w": 87.89051592565522
+				},
+				{
+					"h": 10,
+					"name": "entity_000_bLeg_000",
+					"realname": "bLeg_000",
+					"type": "bone",
+					"w": 104.31126468067337
+				},
+				{
+					"h": 10,
+					"name": "entity_000_head",
+					"realname": "head",
+					"type": "bone",
+					"w": 135.19131200497281
+				}
+			]
+		}
+	],
+	"folder": [
+		{
+			"file": [
+				{
+					"height": 500,
+					"id": 0,
+					"name": "Hair.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 500
+				},
+				{
+					"height": 500,
+					"id": 1,
+					"name": "bHand.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 500
+				},
+				{
+					"height": 500,
+					"id": 2,
+					"name": "aHand.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 500
+				},
+				{
+					"height": 500,
+					"id": 3,
+					"name": "Body.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 500
+				},
+				{
+					"height": 500,
+					"id": 4,
+					"name": "aLeg1.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 500
+				},
+				{
+					"height": 500,
+					"id": 5,
+					"name": "aLeg2.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 500
+				},
+				{
+					"height": 500,
+					"id": 6,
+					"name": "bLeg.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 500
+				},
+				{
+					"height": 500,
+					"id": 7,
+					"name": "Head.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 500
+				}
+			],
+			"id": 0
+		}
+	],
+	"generator": "BrashMonkey Spriter",
+	"generator_version": "r11",
+	"scon_version": "1.0"
+}
