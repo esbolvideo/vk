@@ -1,7 +1,7 @@
 {
-	"name": "Spasi Rybok",
-	"short_name": "Spasi Rybok",
-	"description": "Spasi Rybok - pull the pin, puzzle game",
+	"name": "FishLove",
+	"short_name": "FishLove",
+	"description": "Fish Love - pull the pin, puzzle game",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "portrait",
